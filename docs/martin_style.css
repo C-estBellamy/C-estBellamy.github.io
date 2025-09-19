@@ -1,6 +1,6 @@
 :root{
   --ink:oldlace;                /* text color */
-  --paper: lightblue;              /* page background */
+  --paper: rgb(153, 204, 255);              /* page background */
   --brand-gold: rgb(204, 204, 255);         /* accent */
   --space-2: 0.5rem;         /* spacing scale */
 }
