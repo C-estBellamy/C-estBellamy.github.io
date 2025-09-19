@@ -8,6 +8,7 @@ body{ color: var(--ink); background: var(--paper); }
 
 header{
   position: sticky; top: 0; 
+  justify-content: center;
   background: rgb(230, 179, 204);
 }
 nav{
