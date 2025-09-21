@@ -1,7 +1,7 @@
 :root{
   --ink:oldlace;                /* text color */
   --paper: rgb(153, 204, 255);              /* page background */
-  --brand-gold: rgb(204, 204, 255);         /* accent */
+  --accent: rgb(204, 204, 255);         /* accent */
   --space-2: 0.5rem;         /* spacing scale */
 }
 body{ color: var(--ink); background: var(--paper); }
