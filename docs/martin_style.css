@@ -4,7 +4,7 @@
   --accent: rgb(204, 204, 255);   /* accent */
   --space-2: 0.5rem;              /* spacing scale */
 }
-body{ color: var(--ink); background: var(--paper); h1: <p class="highlight">}
+body{ color: var(--ink); background: var(--paper); }
 
 header{
   position: sticky; top: 0; 
@@ -16,4 +16,6 @@ nav{
   gap: var(--space-2);
   justify-content: center;
   padding: calc(var(--space-2) * 0.75) 0;
+  a:hover {
+  color: rgb(204, 204, 255);   /* when mouse hovers */
 }
