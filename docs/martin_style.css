@@ -24,7 +24,7 @@ nav{
 /* Headings */
 h1 {
   color: var(--ink);
-  text-align: left;
+  text-align: center;
 }
 
 h2 {
