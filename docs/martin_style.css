@@ -4,7 +4,7 @@
   --accent: rgb(204, 204, 255);   /* accent */
   --space-2: 0.5rem;              /* spacing scale */
 }
-body{ color: var(--ink); background: var(--paper); }
+body{ color: var(--ink); background: var(--paper); h1: <p class="highlight">}
 
 header{
   position: sticky; top: 0; 
