@@ -16,6 +16,8 @@ nav{
   gap: var(--space-2);
   justify-content: center;
   padding: calc(var(--space-2) * 0.75) 0;
+  a:visited {
+  color: purple;  /* after you’ve clicked the link */ }
   a:hover {
-  color: rgb(204, 204, 255);   /* when mouse hovers */
+  color: rgb(204, 204, 255);   /* when mouse hovers */ }
 }
